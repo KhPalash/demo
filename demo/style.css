@@ -1,0 +1,19 @@
+
+body(font-family:'kalpurush',Arial,sans-serif!important;)
+
+.container( max-wodth:1024px; boder:1px solid white;font-family;
+kalpurushregular!important;-webkit-font-smoothing:antialiased;
+-webkit-text-size-adjust:100%)
+
+.banner(background:9E5BBA;max-height:120px;padding:0px 0px 5px 5px;
+boder-botton:1px solid#e40001;)
+
+.banner>
+
+
+
+.col-md-12,.col-md-8, .col-md-4, .container-fluid, .navbar { padding:0px;}
+
+.nav-item{border-right:1px solid white; padding:0px;  background:url('images/infographic-bg-green.png'); color:white; width:107.5px; line-height:8px; max-height:31px; overflow:hidden; }
+
+.nav-item:hover{background:pink;}
